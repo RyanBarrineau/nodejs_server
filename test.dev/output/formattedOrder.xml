@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Product>
+    <author>Gambardella, Matthew</author>
+    <title>XML Developer's Guide</title>
+</Product>
+<Product>
+<author>Ralls, Kim</author>
+<title>Midnight Rain</title>
+</Product><Product>
+<author>Corets, Eva</author>
+<title>Maeve Ascendant</title>
+</Product><Product>
+<author>Corets, Eva</author>
+<title>Oberon's Legacy</title>
+</Product><Product>
+<author>Corets, Eva</author>
+<title>The Sundered Grail</title>
+</Product><Product>
+<author>Randall, Cynthia</author>
+<title>Lover Birds</title>
+</Product><Product>
+<author>Thurman, Paula</author>
+<title>Splish Splash</title>
+</Product><Product>
+<author>Knorr, Stefan</author>
+<title>Creepy Crawlies</title>
+</Product><Product>
+<author>Kress, Peter</author>
+<title>Paradox Lost</title>
+</Product><Product>
+<author>O'Brien, Tim</author>
+<title>Microsoft .NET: The Programming Bible</title>
+</Product><Product>
+<author>O'Brien, Tim</author>
+<title>MSXML3: A Comprehensive Guide</title>
+</Product><Product>
+<author>Galos, Mike</author>
+<title>Visual Studio 7: A Comprehensive Guide</title>
+</Product>
